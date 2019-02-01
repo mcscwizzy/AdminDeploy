@@ -1,0 +1,16 @@
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Winsible.exe.config
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Winsible.exe
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Winsible.pdb
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Ookii.CommandLine.dll
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Ookii.CommandLine.xml
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\obj\Debug\Winsible.csproj.CoreCompileInputs.cache
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\obj\Debug\Winsible.csproj.CopyComplete
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\obj\Debug\Winsible.exe
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\obj\Debug\Winsible.pdb
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\obj\Debug\Winsible.csprojAssemblyReference.cache
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Winsible.exe.manifest
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\bin\Debug\Winsible.application
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\obj\Debug\Winsible.exe.manifest
+C:\Users\johnwalker\Documents\Git\Winsible\Winsible\obj\Debug\Winsible.application
