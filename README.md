@@ -1,5 +1,5 @@
 # AdminDeploy
-A CLI utility used to deploy Powershell scripts. These scripts can be used to install sofware, gather information, make changes to the OS, etc. 
+A powerful CLI utility used to deploy Powershell scripts. These scripts can be used to install sofware, gather information, make changes to the OS, etc. 
 
 The uniqueness of this utility lies in the way it is made. It copies an entire folder to the target machine(s), then runs the script, outputs the results from script, then bring it back and outputs the results in a JSON file. This file can then be consumed by an API service or whereever you need this information to go. This can even be used as a one-to-many monitoring software. The possibilites are endless. 
 
